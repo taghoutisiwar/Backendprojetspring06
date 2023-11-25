@@ -1,0 +1,13 @@
+C:\Users\tagho\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\users-microservice\src\main\java\com\example\demo\security\JWTAuthenticationFilter.java
+C:\Users\tagho\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\users-microservice\src\main\java\com\example\demo\UsersMicroserviceApplication.java
+C:\Users\tagho\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\users-microservice\src\main\java\com\example\demo\security\SecurityConfig.java
+C:\Users\tagho\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\users-microservice\src\main\java\com\example\demo\service\UserServiceImpl.java
+C:\Users\tagho\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\users-microservice\src\main\java\com\example\demo\service\UserService.java
+C:\Users\tagho\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\users-microservice\src\main\java\com\example\demo\Repos\UserRepository.java
+C:\Users\tagho\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\users-microservice\src\main\java\com\example\demo\security\JWTAuthorizationFilter.java
+C:\Users\tagho\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\users-microservice\src\main\java\com\example\demo\security\MyUserDetailsService.java
+C:\Users\tagho\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\users-microservice\src\main\java\com\example\demo\security\SecParams.java
+C:\Users\tagho\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\users-microservice\src\main\java\com\example\demo\Repos\RoleRepository.java
+C:\Users\tagho\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\users-microservice\src\main\java\com\example\demo\restControllers\UserRestController.java
+C:\Users\tagho\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\users-microservice\src\main\java\com\example\demo\entities\Role.java
+C:\Users\tagho\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\users-microservice\src\main\java\com\example\demo\entities\User.java
